@@ -1,6 +1,6 @@
 # 2048
 
-# IMPLEMENTATION:
+# IMPLEMENTATION
 
 Tile.java:     represents each individual tile object in the game.
   			       It stores methods for getting and setting the value of a
@@ -23,7 +23,7 @@ Image.java:     gets the png image files that will be displayed to
   			        visually represent the tiles.
 
 
-# CORE CONCEPTS:
+# CORE CONCEPTS
 
 2D Arrays:    2D array of tile objects to represent the state of the board grid.
            
